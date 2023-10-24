@@ -1,0 +1,3 @@
+C:/Users/Santiago Sanchez/Desktop/ProyectoVSantiago/cmake-build-debug/CMakeFiles/ProyectoVSantiago.dir
+C:/Users/Santiago Sanchez/Desktop/ProyectoVSantiago/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Santiago Sanchez/Desktop/ProyectoVSantiago/cmake-build-debug/CMakeFiles/rebuild_cache.dir
